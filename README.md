@@ -1,5 +1,15 @@
-<!-- @format -->
+# Elysia with Bun runtime
 
-# Astring website
+## Getting Started
+To get started with this template, simply paste this command into your terminal:
+```bash
+bun create elysia ./elysia-example
+```
 
-- This website will manage the content of mine
+## Development
+To start the development server run:
+```bash
+bun run dev
+```
+
+Open http://localhost:3000/ with your browser to see the result.
